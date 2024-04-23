@@ -1,0 +1,11 @@
+{
+    "name": "blackmorth/php-docker",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Quentin Boulard",
+            "email": "blackmorth@gmail.com"
+        }
+    ],
+    "require": {}
+}
